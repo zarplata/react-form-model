@@ -1,0 +1,13 @@
+{
+  "name": "react-form-model",
+  "version": "0.1.0",
+  "description": "react-form-model",
+  "main": "./src/index.js",
+  "repository": "https://github.com/zarplata/react-form-model.git",
+  "author": "Communist <apvnsk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "form-model": "^0.1.0",
+    "lodash": "^4.17.4"
+  }
+}
