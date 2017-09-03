@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import FormModel from 'form-model';
 
 import omit from 'lodash/omit';
 
