@@ -1289,9 +1289,9 @@ form-data@~2.1.1:
     combined-stream "^1.0.5"
     mime-types "^2.1.12"
 
-form-model@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/form-model/-/form-model-0.1.0.tgz#7c57354c78a26e5544134182dbdcbac673775dcc"
+form-model@~0.1.9:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/form-model/-/form-model-0.1.9.tgz#49fd0d64c4bfc5e6ea238d19c513c258f31a74f4"
   dependencies:
     lodash "^4.17.4"
 
